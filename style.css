@@ -46,3 +46,42 @@
 /* body {
   background: #ffffff url("images/chotibike.jpeg") no-repeat top right;
 } */
+
+/* GRADIENTS */
+
+/* linear gradients */
+/* body {
+  background-image: linear-gradient(left to right red, yellow);
+  background-repeat: no-repeat;
+  background-size: contain;
+} */
+/* #testcontaner {
+  height: 200px;
+  background-color: red;
+  background-image: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+} */
+
+/* Radial Gradient */
+/* #testcontaner {
+  height: 200px;
+  background-color: red;
+  background-image: radial-gradient(red, yellow, green);
+} */
+
+/* Conic Gradient */
+/* #testcontaner {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  background-image: conic-gradient(red, yellow, green, blue, orange);
+  border-radius: 50%;
+} */
